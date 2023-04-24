@@ -7,8 +7,8 @@ The application first checks if the user has admin privileges to run. If the use
 
 * Check if the user has admin privileges.
 * Enable the backup privilege by calling the EnablePrivilege function with the privilege name "SeBackupPrivilege".
-* Harvest the sam and system by calling the HarvestBackup function.
 * The HarvestBackup function sets the destination directory to "C:\Users\Public"
+* Harvest the sam and system by calling the HarvestBackup function.
 * If the directory doesn't exist, it creates it.
 * It saves the registry hives to the specified directory.
 
@@ -19,8 +19,7 @@ Once harvesting complete, the program ends and displays a message indicating tha
 * Open the project in Visual Studio.
 * Build the project.
 * Open the command prompt or terminal and navigate to the location of the executable file.
-* Execute the application.
-* BackupHarvester.exe
+* Execute the application BackupHarvester.exe
 
 ## Video Proof-of-Concept
 
