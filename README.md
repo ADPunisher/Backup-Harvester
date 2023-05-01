@@ -21,6 +21,10 @@ Once harvesting complete, the program ends and displays a message indicating tha
 * Open the command prompt or terminal and navigate to the location of the executable file.
 * Execute the application BackupHarvester.exe
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Video Proof-of-Concept
 
 https://youtu.be/-nv5OJhhHh0
